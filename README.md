@@ -10,7 +10,7 @@ https://github.com/sporadic-labs/tile-extruder
 2. Extrude image
 `tile-extruder --tileWidth 32 --tileHeight 32 --margin 2 --spacing 2 --input ./src/assets/img/tilesheet.png --output ./src/assets/img/tilesheet-extruded.png`
 
-3. Configure
+3. Use tileset
 ```ts
 const tileSize = 32;
 
